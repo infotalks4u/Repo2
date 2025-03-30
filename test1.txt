@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A690-9EFF
+
+ Directory of C:\Users\rkoda\OneDrive\Desktop\MyGITProject
+
+30/03/2025  20:14    <DIR>          .
+30/03/2025  20:09    <DIR>          ..
+30/03/2025  20:13                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  901,873,385,472 bytes free
